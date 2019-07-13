@@ -1,0 +1,11 @@
+C:\Users\musta\Documents\Visual Studio 2017\Projects\ArduinoInterface\ArduinoInterface\bin\Debug\ArduinoInterface.exe.config
+C:\Users\musta\Documents\Visual Studio 2017\Projects\ArduinoInterface\ArduinoInterface\bin\Debug\ArduinoInterface.exe
+C:\Users\musta\Documents\Visual Studio 2017\Projects\ArduinoInterface\ArduinoInterface\bin\Debug\ArduinoInterface.pdb
+C:\Users\musta\Documents\Visual Studio 2017\Projects\ArduinoInterface\ArduinoInterface\obj\Debug\ArduinoInterface.csprojAssemblyReference.cache
+C:\Users\musta\Documents\Visual Studio 2017\Projects\ArduinoInterface\ArduinoInterface\obj\Debug\ArduinoInterface.ArduinoInterfaceMain.resources
+C:\Users\musta\Documents\Visual Studio 2017\Projects\ArduinoInterface\ArduinoInterface\obj\Debug\ArduinoInterface.Properties.Resources.resources
+C:\Users\musta\Documents\Visual Studio 2017\Projects\ArduinoInterface\ArduinoInterface\obj\Debug\ArduinoInterface.SettingsScreen.resources
+C:\Users\musta\Documents\Visual Studio 2017\Projects\ArduinoInterface\ArduinoInterface\obj\Debug\ArduinoInterface.csproj.GenerateResource.cache
+C:\Users\musta\Documents\Visual Studio 2017\Projects\ArduinoInterface\ArduinoInterface\obj\Debug\ArduinoInterface.csproj.CoreCompileInputs.cache
+C:\Users\musta\Documents\Visual Studio 2017\Projects\ArduinoInterface\ArduinoInterface\obj\Debug\ArduinoInterface.exe
+C:\Users\musta\Documents\Visual Studio 2017\Projects\ArduinoInterface\ArduinoInterface\obj\Debug\ArduinoInterface.pdb
